@@ -1,3 +1,3 @@
 # Emojifier
 
-Converts images to emojis
+Converts images to emojis using magic
